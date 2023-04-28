@@ -1,3 +1,4 @@
 Acest proiect e despre filme.
 si care ar vrea sa le vizionez :)
 si am facut ceva schimbari la readme.md
+ce filme s vazut si ce impresii si emotii am avut
